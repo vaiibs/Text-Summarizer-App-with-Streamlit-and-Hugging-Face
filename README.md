@@ -1,4 +1,4 @@
-# Text-Summarizer-App-with-Streamlit-and-Hugging-Face
+# Text Summarizer with Streamlit and Hugging Face
 
 ![image](https://github.com/user-attachments/assets/a60c5f98-f648-4203-996e-446baade34e6)
 
